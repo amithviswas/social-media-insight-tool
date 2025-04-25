@@ -1,1 +1,18 @@
+Copyright © 2025 Dwarampudi Amith Viswas Reddy & Mohammed Sardar Saajit
+All Rights Reserved.
 
+This repository contains confidential and proprietary information related to the invention titled:
+"Social Media Sentiment Extraction and Analysis System" (Patent Pending).
+
+This software and its contents are protected by intellectual property laws and are NOT licensed for public use, reproduction, or distribution.
+
+Unauthorized use, copying, disclosure, or modification of this code or any of its components is strictly prohibited and may result in legal action.
+
+Access is granted strictly for internal development and patent documentation purposes only.
+
+By cloning, copying, or accessing this repository, you agree not to:
+- Distribute any part of this repository publicly
+- Use the contents for commercial or research purposes
+- Disclose or leak any information related to this invention
+
+This is *NOT open-source software.*
